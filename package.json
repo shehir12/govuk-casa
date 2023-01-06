@@ -54,7 +54,7 @@
     "i18next-http-middleware": "3.1.5",
     "js-yaml": "4.1.0",
     "lodash": "4.17.21",
-    "luxon": "2.3.0",
+    "luxon": "2.5.2",
     "nunjucks": "3.2.3",
     "uuid": "8.3.2",
     "validator": "13.7.0"
