@@ -45,7 +45,7 @@
     "csurf": "1.11.0",
     "debug": "4.3.3",
     "deepmerge": "4.2.2",
-    "express": "4.17.2",
+    "express": "4.21.0",
     "express-session": "1.17.2",
     "govuk-frontend": "4.0.0",
     "graphlib": "2.1.8",
