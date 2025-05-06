@@ -50,7 +50,7 @@
     "govuk-frontend": "4.0.0",
     "graphlib": "2.1.8",
     "helmet": "5.0.2",
-    "i18next": "21.6.10",
+    "i18next": "24.2.3",
     "i18next-http-middleware": "3.1.5",
     "js-yaml": "4.1.0",
     "lodash": "4.17.21",
